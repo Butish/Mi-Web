@@ -1,2 +1,7 @@
 Samuelito
+<<<<<<< HEAD
 rama master
+=======
+RamaB
+Hola
+>>>>>>> RamaB
